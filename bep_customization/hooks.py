@@ -130,12 +130,12 @@ app_license = "MIT"
 
 
 
-fixtures = [
-    {"dt": "Custom Field"},
-    {"dt": "Property Setter"},
-    {"dt": "DocType", "filters": [
-        [
-            "custom", "=",1
-        ]
-    ]}
-]
+# fixtures = [
+#     {"dt": "Custom Field"},
+#     {"dt": "Property Setter"},
+#     {"dt": "DocType", "filters": [
+#         [
+#             "custom", "=",1
+#         ]
+#     ]}
+# ]
